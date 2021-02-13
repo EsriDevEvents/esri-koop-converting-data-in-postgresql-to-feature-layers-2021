@@ -13,5 +13,6 @@ PostgreSQL is undoubtedly one of the most popular RDBMS, and although we can ena
 ## Resources
 
 * Code: [koop-provider-postgresql](https://github.com/esri-es/koop-provider-postgresql#koop-provider-postgre)
+* BD used in the demo: [DevSummitKoopPostgres.backup](./DevSummitKoopPostgres.backup)
 * Slides: \<pending\> ([check proceedings.esri.com](https://proceedings.esri.com/library/userconf/index.html))
 * Video: \<pending\> ([check Koop playlist](https://www.youtube.com/watch?v=0T9iF4FSoxs&list=PLahIW2YFPQd5kMvPOn6pqnttwMtlyRqJi))
